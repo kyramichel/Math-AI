@@ -1,1 +1,3 @@
-This repo focuses on advanced math concepts related to AI and deep learning
+Welcome to the **AI - Math** repository! This project focuses on advanced mathematical concepts related to AI and deep learning, particularly tensors and their applications in neural networks.
+
+Check out my book: **[Tensors and Their Applications: A Compilation of PhD Research]([https://www.amazon.com/dp/your-book-link](https://www.amazon.com/Tensors-Their-Applications-Compilation-Research-ebook/dp/B09KYKSDVG/ref=sr_1_7?dib=eyJ2IjoiMSJ9.u65xupnLByehmnmW2SfwTRTopHZncB-fJtxUCaVdM81MQAdTMf2ofHDz5_8YrMEn3jiCbHAJ6pEgPc_ci6gx2P6dMKMhlOpOUmzjdnTKJtcsE-CMlOJcZ0reoM21_AdcxOV22z7I2mAqdsNGTiJKfr2o0o51YVa1ejiEU15pWlTp77XV8U9FRN2Wh6AhKlr3.y3g9_cYRS4SEdaCdhKRdjASewR-dIQhjR1Dg7gS1jRw&dib_tag=se&qid=1748954467&refinements=p_27%3AKyra+Michel&s=books&sr=1-7))**.
